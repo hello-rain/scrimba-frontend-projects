@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="index.css" />
+    <title>Password Generator</title>
+  </head>
+  <body>
+    <main class="container">
+      <!-- Main Heading -->
+      <header>
+        <h1 class="password__header">
+          Generate a <span class="highlight">random password</span>
+        </h1>
+        <p class="password__subheader">Never use an insecure password again.</p>
+      </header>
+
+      <!-- Generate Button -->
+      <section>
+        <button
+          onclick="generatedPasswords()"
+          aria-describedby="password-instructions"
+        >
+          Generate passwords
+        </button>
+        <p id="password-instructions" class="visually-hidden">
+          Click the button to generate two random passwords below.
+        </p>
+      </section>
+      <br />
+
+      <!-- Password Outputs -->
+      <section class="passwords">
+        <h2 class="visually-hidden">Generated Passwords</h2>
+        <div class="passwords__list">
+          <label for="password-1" class="visually-hidden">Password 1</label>
+          <output id="password-1" class="passwords__output" aria-live="polite"
+            >nfJjy!dDvR&ial</output
+          >
+          <label for="password-2" class="visually-hidden">Password 2</label>
+          <output id="password-2" class="passwords__output" aria-live="polite"
+            >egxWij@veiPUwK</output
+          >
+        </div>
+      </section>
+    </main>
+    <script src="./index.js"></script>
+  </body>
+</html>
