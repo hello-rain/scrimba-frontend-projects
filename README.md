@@ -229,7 +229,7 @@ _Level up CSS skills._
 
 ### Mindfree Social
 
-<p align="center"> <a href="https://mindfree-social.netlify.app/" target="_blank"> <img src="https://link-to-image" alt="Mindfree Social preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://mindfree-social.netlify.app/" target="_blank"> <img src="https://github.com/user-attachments/assets/8fc3c49b-ad42-4206-9534-69d37a3c8f8a" alt="Mindfree Social preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
