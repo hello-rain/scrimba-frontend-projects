@@ -52,7 +52,7 @@ _Learn the basics of HTML and CSS._
 
 ### Per Birthday Gift
 
-<p align="center"> <a href="https://link-to-vercel" target="_blank"> <img src="https://link-to-image" alt="Per Birthday Gift preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://per-birthday-gift.netlify.app/" target="_blank"> <img src="https://github.com/user-attachments/assets/96d1d215-4b06-48b5-a6e0-0dc9498c7e3d" alt="Per Birthday Gift preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
@@ -78,7 +78,7 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 ### Rain Business Card
 
-<p align="center"> <a href="https://link-to-vercel" target="_blank"> <img src="https://link-to-image" alt="Rain Business Card preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://rain-business-card.netlify.app/" target="_blank"> <img src="https://github.com/user-attachments/assets/cc7c6b0d-c6e3-4136-a088-7ae96568aace" alt="Rain Business Card preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
@@ -105,7 +105,7 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 ### Stars Hollow
 
-<p align="center"> <a href="https://link-to-vercel" target="_blank"> <img src="https://link-to-image" alt="Stars Hollow preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://stars-hollow.netlify.app/" target="_blank"> <img src="https://github.com/user-attachments/assets/acd79a75-bbc6-4095-abf5-a7a70a60ef8c" alt="Stars Hollow preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
