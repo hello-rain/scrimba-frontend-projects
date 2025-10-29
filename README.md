@@ -178,12 +178,12 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 ### Password Generator
 
-<p align="center"> <a href="https://password-generator-rain.netlify.app/" target="_blank"> <img src="https://github.com/user-attachments/assets/ed673676-573e-40a6-a4d1-85c8f9fe02d0" alt="Password Generator preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://minimalist-password-generator.netlify.app/" target="_blank"> <img src="https://github.com/user-attachments/assets/ed673676-573e-40a6-a4d1-85c8f9fe02d0" alt="Password Generator preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
 - <a href="https://github.com/hello-rain/scrimba-frontend-projects/tree/main/making-websites-interactive/password-generator" target="_blank" rel="noopener noreferrer">Code</a>
-- <a href="https://password-generator-rain.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
+- <a href="https://minimalist-password-generator.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
 - [Back to Table of Contents](#table-of-contents)
 
 **Requirements:**
@@ -204,12 +204,12 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 ### Unit Converter
 
-<p align="center"> <a href="https://unit-converter-rain.netlify.app/" target="_blank"> <img src="https://github.com/user-attachments/assets/5b1ed246-8353-4223-a42c-7cad5b809917" alt="Unit Converter preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://easy-unit-converter.netlify.app/" target="_blank"> <img src="https://github.com/user-attachments/assets/5b1ed246-8353-4223-a42c-7cad5b809917" alt="Unit Converter preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
 - <a href="https://github.com/hello-rain/scrimba-frontend-projects/tree/main/making-websites-interactive/unit-converter" target="_blank" rel="noopener noreferrer">Code</a>
-- <a href="https://unit-converter-rain.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
+- <a href="https://easy-unit-converter.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
 - [Back to Table of Contents](#table-of-contents)
 
 **Requirements:**
@@ -283,12 +283,12 @@ _Level up Responsive Design skills._
 
 ### Rain's Learning Journal
 
-<p align="center"> <a href="https://learning-journal-rain.netlify.app/" target="_blank"> <img src="https://link-to-image" alt="Rain's Learning Journal preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://rain-learning-journal.netlify.app/" target="_blank"> <img src="https://link-to-image" alt="Rain's Learning Journal preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
 - <a href="https://github.com/hello-rain/scrimba-frontend-projects/tree/main/responsive-design/rain-learning-journal" target="_blank" rel="noopener noreferrer">Code</a>
-- <a href="https://learning-journal-rain.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
+- <a href="https://rain-learning-journal.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
 - [Back to Table of Contents](#table-of-contents)
 
 **Requirements:**
@@ -306,14 +306,14 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 _Learn to use APIs._
 
-<p align="center"> <a href="https://color-scheme-generator-rain.netlify.app/" target="_blank"> <img src="https://link-to-image" alt="Color Scheme Generator preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://color-scheme-generator.netlify.app/" target="_blank"> <img src="https://link-to-image" alt="Color Scheme Generator preview" style="width:45%;"/> </a> </p>
 
 ### Color Scheme Generator
 
 **Links:**
 
 - <a href="https://github.com/hello-rain/scrimba-frontend-projects/tree/main/working-with-apis/color-scheme-generator" target="_blank" rel="noopener noreferrer">Code</a>
-- <a href="https://color-scheme-generator-rain.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
+- <a href="https://color-scheme-generator.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
 - [Back to Table of Contents](#table-of-contents)
 
 **Requirements:**
@@ -332,12 +332,12 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 ### Movie Watchlist
 
-<p align="center"> <a href="https://movie-watchlist-rain.netlify.app/" target="_blank"> <img src="https://link-to-image" alt="Movie Watchlist preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://movie-watchlist.netlify.app/" target="_blank"> <img src="https://link-to-image" alt="Movie Watchlist preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
 - <a href="https://github.com/hello-rain/scrimba-frontend-projects/tree/main/working-with-apis/movie-watchlist" target="_blank" rel="noopener noreferrer">Code</a>
-- <a href="https://movie-watchlist-rain.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
+- <a href="https://movie-watchlist.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
 - [Back to Table of Contents](#table-of-contents)
 
 **Requirements:**
@@ -357,12 +357,12 @@ _Learn the basics of React._
 
 ### Tenzies
 
-<p align="center"> <a href="https://tenzies-rain.netlify.app/" target="_blank"> <img src="https://link-to-image" alt="Tenzies preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://tenzies.netlify.app/" target="_blank"> <img src="https://link-to-image" alt="Tenzies preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
 - <a href="https://github.com/hello-rain/scrimba-frontend-projects/tree/main/react-basics/tenzies" target="_blank" rel="noopener noreferrer">Code</a>
-- <a href="https://tenzies-rain.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
+- <a href="https://tenzies.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
 - [Back to Table of Contents](#table-of-contents)
 
 **Requirements:**
@@ -378,12 +378,12 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 ### Assembly Endgame
 
-<p align="center"> <a href="https://assembly-endgame-rain.netlify.app/" target="_blank"> <img src="https://link-to-image" alt="Assembly Endgame preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://assembly-endgame.netlify.app/" target="_blank"> <img src="https://link-to-image" alt="Assembly Endgame preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
 - <a href="https://github.com/hello-rain/scrimba-frontend-projects/tree/main/react-basics/assembly-endgame" target="_blank" rel="noopener noreferrer">Code</a>
-- <a href="https://assembly-endgame-rain.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
+- <a href="https://assembly-endgame.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
 - [Back to Table of Contents](#table-of-contents)
 
 **Requirements:**
@@ -398,12 +398,12 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 ### Quizzical
 
-<p align="center"> <a href="https://quizzical-rain.netlify.app/" target="_blank"> <img src="https://link-to-image" alt="Quizzical preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://quizzical.netlify.app/" target="_blank"> <img src="https://link-to-image" alt="Quizzical preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
 - <a href="https://github.com/hello-rain/scrimba-frontend-projects/tree/main/react-basics/quizzical" target="_blank" rel="noopener noreferrer">Code</a>
-- <a href="https://quizzical-rain.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
+- <a href="https://quizzical.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
 - [Back to Table of Contents](#table-of-contents)
 
 **Requirements:**
