@@ -83,9 +83,9 @@ function renderFullPlot(e) {
 // Fetch a list of films from OMDb API based on user search input
 async function fetchFilms(filmInput) {
   try {
-    // Make a request to the OMDB API with the search query
+    // Make a request to the serverless proxy (Netlify Function)
     const response = await fetch(
-      `${CONFIG.API_BASE_URL}/?apikey=${CONFIG.OMDB_API_KEY}&s=${filmInput}`
+      `/.netlify/functions/get-movies?q=${encodeURIComponent(filmInput)}`
     );
     if (!response.ok) {
       const message = "Network response was not ok";
@@ -115,7 +115,7 @@ async function fetchFilms(filmInput) {
 async function fetchFilmDetail(imdbID) {
   try {
     const response = await fetch(
-      `${CONFIG.API_BASE_URL}/?apikey=${CONFIG.OMDB_API_KEY}&i=${imdbID}`
+      `/.netlify/functions/get-movies?i=${encodeURIComponent(imdbID)}`
     );
     if (!response.ok) {
       const message = "Network response was not ok";

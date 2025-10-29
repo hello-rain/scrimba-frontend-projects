@@ -60,7 +60,7 @@ function renderFullPlot(e) {
 async function fetchFilmDetail(imdbID) {
   try {
     const response = await fetch(
-      `${CONFIG.API_BASE_URL}/?apikey=${CONFIG.OMDB_API_KEY}&i=${imdbID}`
+      `/.netlify/functions/get-movies?i=${encodeURIComponent(imdbID)}`
     );
     if (!response.ok) {
       const message = "Network response was not ok";
