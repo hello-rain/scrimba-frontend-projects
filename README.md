@@ -225,6 +225,8 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 ## Module 5 – Essential CSS Concepts
 
+_Level up CSS skills._
+
 ### Mindfree Social
 
 <p align="center"> <a href="https://link-to-vercel" target="_blank"> <img src="https://link-to-image" alt="Mindfree Social preview" style="width:45%;"/> </a> </p>
@@ -252,6 +254,8 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 ## Module 6 – Essential JavaScript Concepts
 
+_Level up JavaScript skills._
+
 ### Jimmy’s Diner
 
 <p align="center"> <a href="https://link-to-vercel" target="_blank"> <img src="https://link-to-image" alt="Jimmy’s Diner preview" style="width:45%;"/> </a> </p>
@@ -275,6 +279,8 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 ## Module 7 – Responsive Design
 
+_Level up Responsive Design skills._
+
 ### Rain's Learning Journal
 
 <p align="center"> <a href="https://link-to-vercel" target="_blank"> <img src="https://link-to-image" alt="Rain's Learning Journal preview" style="width:45%;"/> </a> </p>
@@ -297,6 +303,8 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 ---
 
 ## Module 9 – Working with APIs
+
+_Learn to use APIs._
 
 <p align="center"> <a href="https://link-to-vercel" target="_blank"> <img src="https://link-to-image" alt="Color Scheme Generator preview" style="width:45%;"/> </a> </p>
 
@@ -344,6 +352,8 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 ---
 
 ## Module 11 – React Basics
+
+_Learn the basics of React._
 
 ### Tenzies
 
