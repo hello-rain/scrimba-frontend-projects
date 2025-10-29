@@ -1,0 +1,179 @@
+/* ============================= */
+/*        Global Styles          */
+/* ============================= */
+
+:root {
+  /* Colors */
+  --clr-neutral-1000: hsl(0, 0%, 0%);
+  --clr-neutral-100: hsl(0, 0%, 100%);
+
+  /* Typography */
+  --ff-primary: "Source Sans 3", serif;
+  --fw-regular: 400;
+  --fw-bold: 700;
+
+  /* Font Sizes */
+  --fs-200: 0.75rem;
+  --fs-300: 0.8125rem;
+  --fs-body: var(--fs-300);
+}
+
+*,
+::before,
+::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--ff-primary);
+  font-size: var(--fs-body);
+  background-color: var(--clr-neutral-100);
+  color: var(--clr-neutral-1000);
+}
+
+.main-container {
+  width: 375px;
+  margin: 0 auto;
+}
+
+/* ============================= */
+/*          Header               */
+/* ============================= */
+
+.header {
+  padding: 0 10px;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav__logo {
+  font-size: 3rem;
+  color: var(--clr-neutral-1000);
+  text-decoration: none;
+}
+
+.user-avatar {
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+}
+
+.divider {
+  margin: 10px 0;
+  border: 0;
+  height: 1px;
+  background-color: var(--clr-neutral-1000);
+  opacity: 0.1;
+}
+
+/* ============================= */
+/*         Post Section          */
+/* ============================= */
+
+.post {
+  background-color: var(--clr-neutral-100);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+/* Post Header */
+.post__header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px;
+}
+
+.post__avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+.post__author-info {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.post__owner {
+  font-weight: var(--fw-bold);
+}
+
+.post__location {
+  font-size: var(--fs-200);
+  color: rgba(0, 0, 0, 0.6);
+}
+
+/* Post Image */
+.post__image {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* ============================= */
+/*     Post Actions & Details    */
+/* ============================= */
+
+.post__details {
+  padding: 10px;
+}
+
+/* Buttons */
+.post__actions {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 8px;
+}
+
+.btn {
+  background: none;
+  border: none;
+  padding: 0;
+}
+
+.btn:hover,
+.btn:active {
+  cursor: pointer;
+  opacity: 0.7;
+}
+
+/* Icons */
+.icon {
+  width: 27px;
+  height: 25px;
+}
+
+/* Likes & Caption */
+.post__likes {
+  font-weight: var(--fw-bold);
+  margin-bottom: 5px;
+}
+
+.post__caption {
+  line-height: 1.4;
+}
+
+.username {
+  font-weight: var(--fw-bold);
+}
+
+/* ============================= */
+/*          Footer               */
+/* ============================= */
+
+.footer {
+  text-align: center;
+  padding: 10px;
+  font-size: var(--fs-200);
+  color: rgba(0, 0, 0, 0.5);
+}
