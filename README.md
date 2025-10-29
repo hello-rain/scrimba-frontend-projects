@@ -56,8 +56,8 @@ _Learn the basics of HTML and CSS._
 
 **Links:**
 
-- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/web-dev-basics/per-birthday-gift)
-- [Live Site](https://per-birthday-gift.netlify.app/)
+- <a href="https://github.com/hello-rain/scrimba-frontend-projects/tree/main/web-dev-basics/per-birthday-gift" target="_blank" rel="noopener noreferrer">Code</a>
+- <a href="https://per-birthday-gift.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
 - [Back to Table of Contents](#table-of-contents)
 
 **Requirements:**
@@ -82,8 +82,8 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 **Links:**
 
-- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/web-dev-basics/rain-business-card)
-- [Live Site](https://rain-business-card.netlify.app/)
+- <a href="https://github.com/hello-rain/scrimba-frontend-projects/tree/main/web-dev-basics/rain-business-card" target="_blank" rel="noopener noreferrer">Code</a>
+- <a href="https://rain-business-card.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
 - [Back to Table of Contents](#table-of-contents)
 
 **Requirements:**
@@ -109,8 +109,8 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 **Links:**
 
-- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/web-dev-basics/stars-hollow)
-- [Live Site](https://stars-hollow.netlify.app/)
+- <a href="https://github.com/hello-rain/scrimba-frontend-projects/tree/main/web-dev-basics/stars-hollow" target="_blank" rel="noopener noreferrer">Code</a>
+- <a href="https://stars-hollow.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
 - [Back to Table of Contents](#table-of-contents)
 
 **Requirements:**
@@ -139,8 +139,8 @@ _Combine HTML, CSS, and JavaScript into interactive projects._
 
 **Links:**
 
-- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/making-websites-interactive/kitten-purrs)
-- [Live Site](https://kitten-purrs.netlify.app/)
+- <a href="https://github.com/hello-rain/scrimba-frontend-projects/tree/main/making-websites-interactive/kitten-purrs" target="_blank" rel="noopener noreferrer">Code</a>
+- <a href="https://kitten-purrs.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
 - [Back to Table of Contents](#table-of-contents)
 
 **Requirements:**
@@ -161,8 +161,8 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 **Links:**
 
-- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/making-websites-interactive/mean-girls-scorecard)
-- [Live Site](https://mean-girls-scorecard.netlify.app/)
+- <a href="https://github.com/hello-rain/scrimba-frontend-projects/tree/main/making-websites-interactive/mean-girls-scorecard" target="_blank" rel="noopener noreferrer">Code</a>
+- <a href="https://mean-girls-scorecard.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
 - [Back to Table of Contents](#table-of-contents)
 
 **Requirements:**
@@ -182,8 +182,8 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 **Links:**
 
-- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/making-websites-interactive/password-generator)
-- [Live Site](https://password-generator-rain.netlify.app/)
+- <a href="https://github.com/hello-rain/scrimba-frontend-projects/tree/main/making-websites-interactive/password-generator" target="_blank" rel="noopener noreferrer">Code</a>
+- <a href="https://password-generator-rain.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
 - [Back to Table of Contents](#table-of-contents)
 
 **Requirements:**
@@ -208,8 +208,8 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 **Links:**
 
-- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/making-websites-interactive/unit-converter)
-- [Live Site](https://unit-converter-rain.netlify.app/)
+- <a href="https://github.com/hello-rain/scrimba-frontend-projects/tree/main/making-websites-interactive/unit-converter" target="_blank" rel="noopener noreferrer">Code</a>
+- <a href="https://unit-converter-rain.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
 - [Back to Table of Contents](#table-of-contents)
 
 **Requirements:**
@@ -233,8 +233,8 @@ _Level up CSS skills._
 
 **Links:**
 
-- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/essential-css-concepts/mindfree-social)
-- [Live Site](https://mindfree-social.netlify.app/)
+- <a href="https://github.com/hello-rain/scrimba-frontend-projects/tree/main/essential-css-concepts/mindfree-social" target="_blank" rel="noopener noreferrer">Code</a>
+- <a href="https://mindfree-social.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
 - [Back to Table of Contents](#table-of-contents)
 
 **Requirements:**
@@ -262,8 +262,8 @@ _Level up JavaScript skills._
 
 **Links:**
 
-- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/essential-javascript-concepts/jimmys-diner)
-- [Live Site](https://jimmys-diner.netlify.app/)
+- <a href="https://github.com/hello-rain/scrimba-frontend-projects/tree/main/essential-javascript-concepts/jimmys-diner" target="_blank" rel="noopener noreferrer">Code</a>
+- <a href="https://jimmys-diner.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
 - [Back to Table of Contents](#table-of-contents)
 
 **Requirements:**
@@ -287,8 +287,8 @@ _Level up Responsive Design skills._
 
 **Links:**
 
-- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/responsive-design/rain-learning-journal)
-- [Live Site](https://learning-journal-rain.netlify.app/)
+- <a href="https://github.com/hello-rain/scrimba-frontend-projects/tree/main/responsive-design/rain-learning-journal" target="_blank" rel="noopener noreferrer">Code</a>
+- <a href="https://learning-journal-rain.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
 - [Back to Table of Contents](#table-of-contents)
 
 **Requirements:**
@@ -312,8 +312,8 @@ _Learn to use APIs._
 
 **Links:**
 
-- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/working-with-apis/color-scheme-generator)
-- [Live Site](https://color-scheme-generator-rain.netlify.app/)
+- <a href="https://github.com/hello-rain/scrimba-frontend-projects/tree/main/working-with-apis/color-scheme-generator" target="_blank" rel="noopener noreferrer">Code</a>
+- <a href="https://color-scheme-generator-rain.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
 - [Back to Table of Contents](#table-of-contents)
 
 **Requirements:**
@@ -336,8 +336,8 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 **Links:**
 
-- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/working-with-apis/movie-watchlist)
-- [Live Site](https://movie-watchlist-rain.netlify.app/)
+- <a href="https://github.com/hello-rain/scrimba-frontend-projects/tree/main/working-with-apis/movie-watchlist" target="_blank" rel="noopener noreferrer">Code</a>
+- <a href="https://movie-watchlist-rain.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
 - [Back to Table of Contents](#table-of-contents)
 
 **Requirements:**
@@ -361,8 +361,8 @@ _Learn the basics of React._
 
 **Links:**
 
-- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/react-basics/tenzies)
-- [Live Site](https://tenzies-rain.netlify.app/)
+- <a href="https://github.com/hello-rain/scrimba-frontend-projects/tree/main/react-basics/tenzies" target="_blank" rel="noopener noreferrer">Code</a>
+- <a href="https://tenzies-rain.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
 - [Back to Table of Contents](#table-of-contents)
 
 **Requirements:**
@@ -382,8 +382,8 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 **Links:**
 
-- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/react-basics/assembly-endgame)
-- [Live Site](https://assembly-endgame-rain.netlify.app/)
+- <a href="https://github.com/hello-rain/scrimba-frontend-projects/tree/main/react-basics/assembly-endgame" target="_blank" rel="noopener noreferrer">Code</a>
+- <a href="https://assembly-endgame-rain.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
 - [Back to Table of Contents](#table-of-contents)
 
 **Requirements:**
@@ -402,8 +402,8 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 **Links:**
 
-- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/react-basics/quizzical)
-- [Live Site](https://quizzical-rain.netlify.app/)
+- <a href="https://github.com/hello-rain/scrimba-frontend-projects/tree/main/react-basics/quizzical" target="_blank" rel="noopener noreferrer">Code</a>
+- <a href="https://quizzical-rain.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
 - [Back to Table of Contents](#table-of-contents)
 
 **Requirements:**
