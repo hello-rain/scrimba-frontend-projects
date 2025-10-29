@@ -306,14 +306,14 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 _Learn to use APIs._
 
-<p align="center"> <a href="https://color-scheme-generator.netlify.app/" target="_blank"> <img src="https://link-to-image" alt="Color Scheme Generator preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://mini-color-scheme-generator.netlify.app/" target="_blank"> <img src="https://github.com/user-attachments/assets/e0b810de-8a60-4b02-b556-0f8c0109b36f" alt="Color Scheme Generator preview" style="width:45%;"/> </a> </p>
 
 ### Color Scheme Generator
 
 **Links:**
 
 - <a href="https://github.com/hello-rain/scrimba-frontend-projects/tree/main/working-with-apis/color-scheme-generator" target="_blank" rel="noopener noreferrer">Code</a>
-- <a href="https://color-scheme-generator.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
+- <a href="https://mini-color-scheme-generator.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
 - [Back to Table of Contents](#table-of-contents)
 
 **Requirements:**
