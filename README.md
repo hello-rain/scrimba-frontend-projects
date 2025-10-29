@@ -283,7 +283,7 @@ _Level up Responsive Design skills._
 
 ### Rain's Learning Journal
 
-<p align="center"> <a href="https://rain-learning-journal.netlify.app/" target="_blank"> <img src="https://link-to-image" alt="Rain's Learning Journal preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://rain-learning-journal.netlify.app/" target="_blank"> <img src="https://github.com/user-attachments/assets/92237fd9-0cb2-48b5-8277-dee9cff6f5a1" alt="Rain's Learning Journal preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
