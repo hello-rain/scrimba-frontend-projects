@@ -56,7 +56,7 @@ _Learn the basics of HTML and CSS._
 
 **Links:**
 
-- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/per-birthday-gift)
+- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/web-dev-basics/per-birthday-gift)
 - [Live Site](https://per-birthday-gift.netlify.app/)
 - [Back to Table of Contents](#table-of-contents)
 
@@ -82,7 +82,7 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 **Links:**
 
-- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/rain-business-card)
+- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/web-dev-basics/rain-business-card)
 - [Live Site](https://rain-business-card.netlify.app/)
 - [Back to Table of Contents](#table-of-contents)
 
@@ -109,7 +109,7 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 **Links:**
 
-- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/stars-hollow)
+- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/web-dev-basics/stars-hollow)
 - [Live Site](https://stars-hollow.netlify.app/)
 - [Back to Table of Contents](#table-of-contents)
 
@@ -139,7 +139,7 @@ _Combine HTML, CSS, and JavaScript into interactive projects._
 
 **Links:**
 
-- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/kitten-purrs)
+- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/making-websites-interactive/kitten-purrs)
 - [Live Site](https://kitten-purrs.netlify.app/)
 - [Back to Table of Contents](#table-of-contents)
 
@@ -161,7 +161,7 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 **Links:**
 
-- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/mean-girls-scorecard)
+- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/making-websites-interactive/mean-girls-scorecard)
 - [Live Site](https://mean-girls-scorecard.netlify.app/)
 - [Back to Table of Contents](#table-of-contents)
 
@@ -182,7 +182,7 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 **Links:**
 
-- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/password-generator)
+- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/making-websites-interactive/password-generator)
 - [Live Site](https://password-generator-rain.netlify.app/)
 - [Back to Table of Contents](#table-of-contents)
 
@@ -208,7 +208,7 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 **Links:**
 
-- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/unit-converter)
+- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/making-websites-interactive/unit-converter)
 - [Live Site](https://unit-converter-rain.netlify.app/)
 - [Back to Table of Contents](#table-of-contents)
 
@@ -233,7 +233,7 @@ _Level up CSS skills._
 
 **Links:**
 
-- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/mindfree-social)
+- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/essential-css-concepts/mindfree-social)
 - [Live Site](https://mindfree-social.netlify.app/)
 - [Back to Table of Contents](#table-of-contents)
 
@@ -262,7 +262,7 @@ _Level up JavaScript skills._
 
 **Links:**
 
-- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/jimmys-diner)
+- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/essential-javascript-concepts/jimmys-diner)
 - [Live Site](https://jimmys-diner.netlify.app/)
 - [Back to Table of Contents](#table-of-contents)
 
@@ -287,7 +287,7 @@ _Level up Responsive Design skills._
 
 **Links:**
 
-- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/learning-journal)
+- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/responsive-design/rain-learning-journal)
 - [Live Site](https://learning-journal-rain.netlify.app/)
 - [Back to Table of Contents](#table-of-contents)
 
@@ -312,7 +312,7 @@ _Learn to use APIs._
 
 **Links:**
 
-- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/color-scheme-generator)
+- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/working-with-apis/color-scheme-generator)
 - [Live Site](https://color-scheme-generator-rain.netlify.app/)
 - [Back to Table of Contents](#table-of-contents)
 
@@ -336,7 +336,7 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 **Links:**
 
-- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/movie-watchlist)
+- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/working-with-apis/movie-watchlist)
 - [Live Site](https://movie-watchlist-rain.netlify.app/)
 - [Back to Table of Contents](#table-of-contents)
 
@@ -361,7 +361,7 @@ _Learn the basics of React._
 
 **Links:**
 
-- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/tenzies)
+- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/react-basics/tenzies)
 - [Live Site](https://tenzies-rain.netlify.app/)
 - [Back to Table of Contents](#table-of-contents)
 
@@ -382,7 +382,7 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 **Links:**
 
-- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/assembly-endgame)
+- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/react-basics/assembly-endgame)
 - [Live Site](https://assembly-endgame-rain.netlify.app/)
 - [Back to Table of Contents](#table-of-contents)
 
@@ -402,7 +402,7 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 **Links:**
 
-- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/quizzical)
+- [Code](https://github.com/hello-rain/scrimba-frontend-projects/tree/main/react-basics/quizzical)
 - [Live Site](https://quizzical-rain.netlify.app/)
 - [Back to Table of Contents](#table-of-contents)
 
