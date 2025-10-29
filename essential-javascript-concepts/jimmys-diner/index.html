@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Smythe:wght@200;400&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <title>Jimmy's Diner - Menu</title>
+    <link rel="stylesheet" href="css/index.css" />
+  </head>
+  <body>
+    <header class="header">
+      <div class="container">
+        <h1 class="header__title">Jimmy's Diner</h1>
+        <p class="header__subtitle">The best burgers and pizzas in town.</p>
+      </div>
+    </header>
+    <main>
+      <section class="menu">
+        <div class="container"></div>
+      </section>
+      <section class="cart">
+        <div class="container">
+          <h2 class="cart__title">Your order</h2>
+          <ul class="cart__list"></ul>
+          <p class="cart__total">
+            Total price: <span class="cart__total-price"></span>
+          </p>
+          <button class="btn" id="complete-btn">Complete order</button>
+        </div>
+      </section>
+      <section class="modal" id="form-modal">
+        <div class="modal__container">
+          <form id="modal__form">
+            <h2 class="modal__form-title">Enter card details</h2>
+            <input
+              class="modal__form-input"
+              type="text"
+              placeholder="Enter your name"
+              name="card-name"
+              id="card-name"
+              required
+            />
+            <input
+              class="modal__form-input"
+              type="text"
+              placeholder="Enter your card number"
+              name="card-number"
+              id="card-number"
+              required
+            />
+            <input
+              class="modal__form-input"
+              type="text"
+              placeholder="Enter your CVV"
+              name="card-cvv"
+              id="card-cvv"
+              required
+            />
+            <button class="btn" id="pay-btn">Pay</button>
+          </form>
+        </div>
+      </section>
+      <section class="complete-message">
+        <div class="container">
+          Thanks, <span id="customer-name"></span>! Your order is on its way!
+        </div>
+      </section>
+    </main>
+    <footer></footer>
+    <script src="js/index.js" type="module"></script>
+  </body>
+</html>

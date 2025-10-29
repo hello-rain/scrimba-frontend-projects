@@ -1,0 +1,273 @@
+/* Root properties */
+:root {
+  /* Colors */
+
+  /* Accent  */
+  --clr-accent-800: hsl(163, 88%, 20%);
+  --clr-accent-400: hsl(160, 82%, 47%);
+  --clr-accent-200: hsl(152, 81%, 96%);
+
+  /* Neutral */
+  --clr-neutral-1000: hsl(0, 0%, 0%);
+  --clr-neutral-500: hsl(0, 0%, 55%);
+  --clr-neutral-300: hsl(0, 0%, 73%);
+  --clr-neutral-100: hsl(0, 0%, 100%);
+
+  /* Fonts  */
+  --ff-primary: "Smythe", sans-serif;
+  --ff-secondary: "Verdana", sans-serif;
+
+  /* Font body  */
+  --ff-body: var(--ff-primary);
+  --ff-heading: var(--ff-primary);
+
+  /* Font weights */
+  --fw-light: 200;
+  --fw-regular: 400;
+  --fw-bold: 700;
+
+  /* Font sizes */
+  --fs-300: 0.75rem;
+  --fs-400: 1rem;
+  --fs-500: 1.25rem;
+  --fs-600: 1.375rem;
+  --fs-700: 1.5rem;
+  --fs-800: 1.75rem;
+  --fs-900: 2rem;
+  --fs-1000: 2.4375rem;
+
+  --fs-body: var(--fs-400);
+  --fs-title: var(--fs-900);
+  --fs-subtitle: var(--fs-600);
+  --fs-menu-price: var(--fs-500);
+  --fs-form: var(--fs-500);
+  --fs-menu-info: var(--fs-800);
+}
+
+/* General styling */
+
+*,
+::before,
+::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  height: 100vh;
+  font-family: var(--ff-body);
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+.container {
+  margin: auto;
+  max-width: 600px;
+  padding: 40px;
+}
+
+header .container {
+  background-image: url("../static/images/jimmys-diner.png");
+  height: 167px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.header {
+  color: var(--clr-neutral-100);
+}
+
+.header__title {
+  font-size: var(--fs-title);
+}
+
+.header__subtitle {
+  font-size: var(--fs-subtitle);
+}
+
+main .container {
+  padding-top: 10px;
+}
+
+/* Menu */
+
+.menu__item {
+  display: flex;
+  gap: 30px;
+  align-items: center;
+  border-bottom: 1px solid hsl(0, 0%, 87%);
+  padding: 50px 0;
+}
+
+.menu__item-title {
+  font-size: var(--fs-menu-info);
+}
+
+.menu__item-ingredients {
+  font-size: var(--fs-menu-title);
+  color: var(--clr-neutral-500);
+}
+
+.menu__item-price {
+  font-size: var(--fs-menu-price);
+}
+
+.menu__item-info {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.menu__item-btn {
+  background: none;
+  border: 1.5px solid hsl(0, 0%, 87%);
+  padding: 0 10px;
+  border-radius: 50%;
+  font-size: 32px;
+  font-weight: 200;
+}
+
+.menu__item-btn:hover {
+  cursor: pointer;
+}
+
+/* Cart */
+.cart {
+  display: none;
+  font-size: var(--fs-menu-info);
+}
+
+.cart__title {
+  font-size: var(--fs-menu-info);
+  text-align: center;
+}
+
+.cart__list {
+  padding: 30px 0 15px 0;
+  border-bottom: 2px solid black;
+}
+
+.cart__list-item {
+  padding: 5px 0;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.cart__list-price {
+  font-size: var(--fs-menu-price);
+}
+
+.cart__total {
+  padding: 10px 0 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.cart__list-btn {
+  background: none;
+  border: none;
+  color: var(--clr-neutral-300);
+  font-family: var(--ff-secondary);
+  font-size: var(--fs-300);
+}
+.cart__list-btn:hover {
+  cursor: pointer;
+}
+
+.cart__total-price {
+  font-size: var(--fs-menu-price);
+}
+
+/* Modal */
+.modal {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: none;
+}
+
+.modal__container {
+  background-color: var(--clr-neutral-100);
+  padding: 40px 0 30px 0;
+  border-radius: 3px;
+  box-shadow: 5px 5px 255px 0px hsla(0, 0%, 0%, 0.5);
+  font-family: var(--ff-secondary);
+  width: 524px;
+  display: flex;
+  justify-content: center;
+}
+
+#modal__form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 25px;
+  width: 470px;
+}
+
+.modal__form-title {
+  font-size: var(--fs-form);
+  margin-bottom: 20px;
+}
+.modal__form-input {
+  padding: 20px;
+  background: none;
+  border: 1px solid;
+  border-radius: 2px;
+  font-size: var(--fs-form);
+
+  display: block;
+  width: 470px;
+}
+
+.modal__form-input:last-of-type {
+  margin-bottom: 20px;
+}
+
+.complete-message .container {
+  background-color: var(--clr-accent-200);
+  padding: 40px 0;
+}
+
+.complete-message {
+  font-size: var(--fs-900);
+  text-align: center;
+  color: var(--clr-accent-800);
+  display: none;
+}
+/* Button */
+.btn {
+  background-color: var(--clr-accent-400);
+  border: none;
+  font-family: var(--ff-secondary);
+  font-weight: var(--fw-bold);
+  font-size: var(--fs-400);
+  color: var(--clr-neutral-100);
+
+  display: block;
+  width: 100%;
+  padding: 20px;
+}
+
+.btn:hover {
+  cursor: pointer;
+}
+
+/* Utility classes */
+.text-right {
+  margin-left: auto;
+}
+
+.active {
+  display: block;
+}
