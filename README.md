@@ -135,7 +135,7 @@ _Combine HTML, CSS, and JavaScript into interactive projects._
 
 ### Kitten Purrs
 
-<p align="center"> <a href="https://kitten-purrs.netlify.app/" target="_blank"> <img src="https://link-to-image" alt="Kitten Purrs preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://kitten-purrs.netlify.app/" target="_blank"> <img src="https://github.com/user-attachments/assets/3b880aea-a16b-4304-a458-00768e1cdf3a" alt="Kitten Purrs preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
@@ -157,7 +157,7 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 ### Mean Girls Scorecard
 
-<p align="center"> <a href="https://mean-girls-scorecard.netlify.app/" target="_blank"> <img src="https://link-to-image" alt="Mean Girls Scorecard preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://mean-girls-scorecard.netlify.app/" target="_blank"> <img src="https://github.com/user-attachments/assets/6145737a-206d-4bdd-be82-152288e678a3" alt="Mean Girls Scorecard preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
@@ -178,7 +178,7 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 ### Password Generator
 
-<p align="center"> <a href="https://password-generator-rain.netlify.app/" target="_blank"> <img src="https://link-to-image" alt="Password Generator preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://password-generator-rain.netlify.app/" target="_blank"> <img src="https://github.com/user-attachments/assets/ed673676-573e-40a6-a4d1-85c8f9fe02d0" alt="Password Generator preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
