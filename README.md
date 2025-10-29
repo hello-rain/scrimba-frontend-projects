@@ -204,7 +204,7 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 ### Unit Converter
 
-<p align="center"> <a href="https://unit-converter-rain.netlify.app/" target="_blank"> <img src="https://link-to-image" alt="Unit Converter preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://unit-converter-rain.netlify.app/" target="_blank"> <img src="https://github.com/user-attachments/assets/5b1ed246-8353-4223-a42c-7cad5b809917" alt="Unit Converter preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
