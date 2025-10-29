@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Rain's Learning Journal</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <header class="primary-header">
+      <div class="container">
+        <div class="nav-wrapper">
+          <a href="index.html" class="logo">
+            <img
+              src="images/logo.png"
+              alt=""
+              aria-hidden="true"
+              class="logo-img"
+            />
+            <span>My learning journal</span></a
+          >
+          <nav>
+            <ul aria-label="Primary" role="list" class="nav-list">
+              <li><a href="index.html">Home</a></li>
+              <li><a href="#" data-nav="about">About Me</a></li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+    <main>
+      <section
+        id="about"
+        class="about visually-hidden"
+        tabindex="-1"
+        aria-labelledby="about-heading"
+        aria-hidden="true"
+        data-page="about"
+      >
+        <div class="container">
+          <h2 id="about-heading" class="visually-hidden">About Me</h2>
+
+          <div class="about__header">
+            <img
+              src="images/rain.png"
+              alt="Headshot of Rain"
+              class="about__image"
+            />
+            <div>
+              <h3 class="about__title">
+                Hi there! My name is Rain and welcome to my learning journal.
+              </h3>
+              <p class="about__paragraph">
+                I'm a self-taught developer, passionate learner, and lifelong
+                explorer of all things tech and creative! This journal is where
+                I document my journey, one breakthrough and bug fix at a time.
+              </p>
+            </div>
+          </div>
+
+          <!-- Main body content -->
+          <div class="about__body">
+            <p class="about__paragraph">
+              I didn’t take the traditional route into tech. Instead, I dove in
+              headfirst—learning by doing, modeling successful platforms, and
+              building projects that challenge and excite me. From frontend
+              foundations to full-stack flows, I'm all about turning curiosity
+              into real-world skills. My motto? Consistency beats complexity.
+            </p>
+            <p class="about__paragraph">
+              I believe the best way to grow is through hands-on practice,
+              community, and staying curious. That’s why you’ll often find me
+              engaging with fellow learners, reflecting on what works, and
+              adapting as I go. Every mistake is a lesson. Every lesson, a
+              building block.
+            </p>
+            <p class="about__paragraph">
+              If you’re learning too, I hope this space gives you a spark of
+              inspiration—and reminds you that you don’t need permission to
+              start, just the courage to keep going.
+            </p>
+          </div>
+        </div>
+      </section>
+      <section
+        class="featured-post"
+        aria-labelledby="featured-post-heading"
+        aria-controls="post-detail"
+        tabindex="0"
+        role="link"
+        data-section="featured"
+      >
+        <div class="container">
+          <h2 id="featured-post-heading" class="visually-hidden">
+            Featured Post
+          </h2>
+          <div class="featured-post__content">
+            <time class="featured-post__date" datetime="2025-04-12"
+              >April 12, 2025</time
+            >
+            <h1 class="featured-post__title">
+              My self-taught journey with Scrimba.
+            </h1>
+            <p class="featured-post__desc">
+              I’m learning to code through Scrimba—one project, one challenge,
+              and one breakthrough at a time.
+            </p>
+          </div>
+        </div>
+      </section>
+      <section
+        id="post-detail"
+        class="post-detail visually-hidden"
+        tabindex="-1"
+        aria-labelledby="post-detail-heading"
+        aria-hidden="true"
+        data-section="detail"
+      >
+        <div class="container">
+          <h2 id="post-detail-heading" class="visually-hidden">Post Detail</h2>
+          <article class="post-detail__item">
+            <header class="post-detail__header">
+              <time class="post-detail__date" datetime="2025-04-12"
+                >April 12, 2025</time
+              >
+              <h3 class="post-detail__title">
+                My self-taught journey with Scrimba.
+              </h3>
+              <p>
+                I’m learning to code through Scrimba—one project, one challenge,
+                and one breakthrough at a time.
+              </p>
+              <img
+                src="images/blog-image-hero-mobile.png"
+                alt=""
+                class="post-detail__image"
+              />
+            </header>
+            <section class="post-detail__body">
+              <p>
+                When I first started, I had no idea how powerful a few lines of
+                code could be. HTML felt like a foreign language, and CSS? A
+                confusing magic trick. But the more I practiced, the more things
+                started to click. What once felt impossible slowly began to feel
+                intuitive.
+              </p>
+
+              <p>
+                What’s made the biggest difference is
+                <strong>building real projects</strong>—not just watching
+                tutorials. Every component I style, every layout I fix, every
+                bug I debug pushes me forward. Scrimba’s hands-on approach has
+                shown me that you don’t need a CS degree to become a
+                developer—you need
+                <em>consistency, curiosity, and community</em>.
+              </p>
+
+              <p>
+                There are days I feel stuck. There are times I doubt myself. But
+                I keep showing up. I keep pushing one line further, one lesson
+                deeper. That’s how progress is made.
+              </p>
+
+              <p>
+                I may be self-taught, but I’m not learning alone. I’m building
+                something real—brick by brick—and this journey has only just
+                begun.
+              </p>
+            </section>
+          </article>
+        </div>
+      </section>
+      <section class="recent-posts" aria-labelledby="recent-posts-heading">
+        <div class="container">
+          <h2 id="recent-posts-heading">Recent Posts</h2>
+          <div class="grid">
+            <div>
+              <a href="index.html" class="recent-posts__item">
+                <img
+                  src="images/blog-image-01.png"
+                  alt=""
+                  class="recent-posts__image"
+                />
+                <time class="recent-posts__date" datetime="2025-04-12"
+                  >April 12, 2025</time
+                >
+                <h3 class="recent-posts__title">
+                  How I Overcame Tutorial Hell
+                </h3>
+                <p class="recent-posts__desc">
+                  I finally broke free from watching endless tutorials. Here's
+                  how I built my first real project — and how you can, too.
+                </p>
+              </a>
+            </div>
+
+            <div>
+              <a href="index.html" class="recent-posts__item">
+                <img
+                  src="images/blog-image-02.png"
+                  alt=""
+                  class="recent-posts__image"
+                />
+                <time class="recent-posts__date" datetime="2025-04-13"
+                  >April 13, 2025</time
+                >
+                <h3 class="recent-posts__title">From Impostor to Developer</h3>
+                <p class="recent-posts__desc">
+                  Self-doubt used to hold me back. Here's what changed when I
+                  started calling myself a developer — even before I felt ready.
+                </p>
+              </a>
+            </div>
+
+            <div>
+              <a href="index.html" class="recent-posts__item">
+                <img
+                  src="images/blog-image-03.png"
+                  alt=""
+                  class="recent-posts__image"
+                />
+                <time class="recent-posts__date" datetime="2025-04-14"
+                  >April 14, 2025</time
+                >
+                <h3 class="recent-posts__title">
+                  How Daily Coding Changed Everything
+                </h3>
+                <p class="recent-posts__desc">
+                  Committing to just 1 hour a day led to my biggest growth. It’s
+                  not about time — it’s about momentum.
+                </p>
+              </a>
+            </div>
+
+            <div>
+              <a href="index.html" class="recent-posts__item">
+                <img
+                  src="images/blog-image-04.png"
+                  alt=""
+                  class="recent-posts__image"
+                />
+                <time class="recent-posts__date" datetime="2025-04-15"
+                  >April 15, 2025</time
+                >
+                <h3 class="recent-posts__title">
+                  Learning in Public: My Turning Point
+                </h3>
+                <p class="recent-posts__desc">
+                  I started tweeting what I learned each day. Not only did I
+                  grow faster — I started attracting opportunities.
+                </p>
+              </a>
+            </div>
+
+            <div>
+              <a href="index.html" class="recent-posts__item">
+                <img
+                  src="images/blog-image-05.png"
+                  alt=""
+                  class="recent-posts__image"
+                />
+                <time class="recent-posts__date" datetime="2025-04-16"
+                  >April 16, 2025</time
+                >
+                <h3 class="recent-posts__title">
+                  Why I Rebuilt My Portfolio from Scratch
+                </h3>
+                <p class="recent-posts__desc">
+                  My old portfolio didn’t reflect who I’d become. Here's why I
+                  started over — and what I learned from the redesign.
+                </p>
+              </a>
+            </div>
+
+            <div>
+              <a href="index.html" class="recent-posts__item">
+                <img
+                  src="images/blog-image-06.png"
+                  alt=""
+                  class="recent-posts__image"
+                />
+                <time class="recent-posts__date" datetime="2025-04-17"
+                  >April 17, 2025</time
+                >
+                <h3 class="recent-posts__title">
+                  Joining a Bootcamp: The Best Decision I Made
+                </h3>
+                <p class="recent-posts__desc">
+                  I was stuck for months learning alone. Joining a bootcamp gave
+                  me the structure, feedback, and support I needed to level up.
+                </p>
+              </a>
+            </div>
+          </div>
+          <button
+            type="button"
+            class="recent-posts__view-more"
+            aria-label="Load more blog posts"
+          >
+            View More
+          </button>
+        </div>
+      </section>
+    </main>
+    <footer class="primary-footer">
+      <a href="index.html" class="brand">My Learning Journal</a>
+      <div>Copyright ©2025</div>
+    </footer>
+    <script src="js/scripts.js" type="module"></script>
+  </body>
+</html>

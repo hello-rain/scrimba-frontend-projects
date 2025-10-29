@@ -1,0 +1,318 @@
+/* 0. Root Properties */
+
+/* 1. Reset  */
+/* 1. Use a more intuitive box-sizing model */
+*,
+*::before,
+::after {
+  box-sizing: border-box;
+}
+
+/* 2. Reset default margin, padding, and font inheritance */
+* {
+  margin: 0;
+  padding: 0;
+  font: inherit;
+}
+
+/* 3. Remove default list styles for elements with a list role */
+ul[role="list"],
+ol[role="list"] {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* 2. General Styles */
+
+body {
+  font-family: "Source Sans 3", Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  color: hsl(0, 0%, 8%);
+  line-height: 1.5;
+}
+
+@media (min-width: 1024px) {
+  main {
+    background-color: hsl(0, 0%, 98%);
+  }
+}
+
+/* 3. Components */
+
+/* Header */
+.primary-header {
+  padding: 1em 0;
+}
+
+.nav-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 0.2em;
+  font-size: clamp(1rem, 2vw, 1.25rem);
+}
+
+.nav-list {
+  display: flex;
+  gap: 1.8em;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: clamp(0.875rem, 2vw, 1rem);
+}
+
+@media (min-width: 768px) {
+  .primary-header .container {
+    padding-right: 0;
+  }
+
+  .primary-header {
+    padding: 2em 0;
+  }
+
+  .nav-list {
+    font-weight: 700;
+  }
+}
+
+/* About */
+
+.about__header {
+  padding: 1.5em 0 3em 0;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5em;
+}
+
+.about__image {
+  width: 182px;
+  height: 182px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+}
+
+.about__title,
+.featured-post__title,
+.post-detail__title {
+  line-height: 1.2;
+}
+
+.about__title {
+  padding-bottom: 0.5em;
+  font-size: clamp(2.125rem, 4vw, 3rem);
+}
+
+.about__paragraph,
+.featured-post__desc {
+  font-size: clamp(1rem, 2vw, 1.2rem);
+}
+
+.about__body {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+
+@media (min-width: 768px) {
+  .about__header {
+    flex-direction: row;
+  }
+
+  .about__body {
+    padding: 0 3em;
+  }
+}
+
+@media (min-width: 1024px) {
+  .about__header {
+    padding-top: 5em;
+  }
+}
+/* Featured Post */
+.featured-post {
+  background-image: url(../images/blog-image-hero-mobile.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 293px;
+  color: hsl(0, 0%, 100%);
+}
+
+.featured-post__content,
+.post-detail__item,
+.post-detail__header,
+.post-detail__body {
+  display: flex;
+  flex-direction: column;
+}
+
+.featured-post__content {
+  padding-top: 5em;
+  max-width: 70ch;
+  gap: 1em;
+}
+
+.featured-post:hover,
+.featured-post:focus {
+  transform: scale(1.01);
+  background-color: rgba(0, 0, 0, 0.5);
+  color: hsl(0, 0%, 100%);
+  transition: transform 0.3s ease, background-color 0.3s ease;
+  cursor: pointer;
+}
+
+.featured-post__date,
+.post__date,
+.post-detail__date {
+  text-transform: uppercase;
+  font-size: clamp(0.875rem, 2vw, 1rem);
+}
+
+.featured-post__title,
+.post-detail__title {
+  font-size: clamp(1.75rem, 4vw, 2.75rem);
+}
+
+.featured-post__desc {
+  line-height: 1.6;
+}
+
+@media (min-width: 1024px) {
+  .featured-post {
+    background-image: url(../images/blog-image-hero-desktop.png);
+    height: 488px;
+  }
+
+  .featured-post__content {
+    padding-top: 14em;
+  }
+}
+
+/* Post Detail */
+.post-detail {
+  padding: 1em 0 2em 0;
+}
+
+.post-detail__item {
+  gap: 2em;
+}
+
+.post-detail__header,
+.post-detail__body {
+  gap: 1em;
+}
+
+.post-detail__header p,
+.post-detail__body {
+  font-size: clamp(1rem, 2vw, 1.25rem);
+}
+
+@media (min-width: 1024px) {
+  .post-detail {
+    padding-top: 3em;
+  }
+}
+
+/* Recent Posts */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2em 1.5em;
+  padding: 2em 0;
+}
+
+.recent-posts__item {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3em;
+}
+
+.recent-posts__image {
+  width: 100%;
+}
+
+.recent-posts__date {
+  margin-top: 0.5em;
+}
+
+.recent-posts__title {
+  font-size: 1.5rem;
+}
+
+.recent-posts__desc {
+  color: hsl(0, 0%, 31%);
+}
+
+#recent-posts-heading {
+  padding-top: 1em;
+  text-align: center;
+  font-size: clamp(1rem, 2vw, 1.5rem);
+}
+
+.recent-posts__view-more {
+  display: block;
+  margin-inline: auto;
+  margin-bottom: 2em;
+  background: none;
+  border: none;
+  text-decoration: underline;
+}
+
+@media (min-width: 1024px) {
+  .grid {
+    padding-top: 3em;
+  }
+}
+
+/* Footer */
+.primary-footer {
+  background-color: #000000;
+  padding: 1em 0;
+  color: #ffffff;
+  text-align: center;
+}
+
+.primary-footer div {
+  font-weight: 600;
+}
+
+@media (min-width: 768px) {
+  .primary-footer {
+    padding: 2em 0;
+  }
+}
+
+/* 4. Utility Classes */
+
+.container {
+  max-width: 1085px;
+  padding: 0 1.5em;
+  margin-inline: auto;
+}
+
+@media (min-width: 1024px) {
+  .container {
+    padding: 0 3em;
+  }
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap; /* Prevents text wrapping */
+  border: 0;
+}
