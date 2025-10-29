@@ -258,12 +258,12 @@ _Level up JavaScript skills._
 
 ### Jimmy’s Diner
 
-<p align="center"> <a href="https://jimmys-diner.netlify.app/" target="_blank"> <img src="https://link-to-image" alt="Jimmy’s Diner preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://jimmys-diner-menu.netlify.app/" target="_blank"> <img src="https://github.com/user-attachments/assets/72176af7-14c3-46ad-a3af-9672846ce0af" alt="Jimmy’s Diner preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
 - <a href="https://github.com/hello-rain/scrimba-frontend-projects/tree/main/essential-javascript-concepts/jimmys-diner" target="_blank" rel="noopener noreferrer">Code</a>
-- <a href="https://jimmys-diner.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
+- <a href="https://jimmys-diner-menu.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
 - [Back to Table of Contents](#table-of-contents)
 
 **Requirements:**
