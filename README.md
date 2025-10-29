@@ -52,7 +52,7 @@ _Learn the basics of HTML and CSS._
 
 ### Per Birthday Gift
 
-<p align="center"> <a href="https://per-birthday-gift.netlify.app/" target="_blank"> <img src="https://github.com/user-attachments/assets/96d1d215-4b06-48b5-a6e0-0dc9498c7e3d" alt="Per Birthday Gift preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://per-birthday-gift.netlify.app/" target="_blank"> <img src="https://github.com/user-attachments/assets/b7a09338-a084-4e73-bd94-93a6b19309a9" alt="Per Birthday Gift preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
