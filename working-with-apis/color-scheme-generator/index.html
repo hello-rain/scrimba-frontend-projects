@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Color Scheme Generator</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:opsz@14..32&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <header class="primary-header">
+      <a href="index.html" class="logo">Color Scheme Generator</a>
+    </header>
+    <main>
+      <div class="container">
+        <form id="color-scheme-generator" class="color-scheme-generator">
+          <label for="seed-color" class="sr-only">Pick a base color: </label>
+          <input
+            type="color"
+            id="seed-color"
+            class="seed-color"
+            name="seed-color"
+            value="#F55A5A"
+            required
+          />
+          <label for="scheme-mode" class="sr-only"
+            >Select a color scheme:</label
+          >
+          <select
+            id="scheme-mode"
+            class="scheme-mode"
+            name="scheme-mode"
+            required
+          >
+            <option value="monochrome" selected>Monochrome</option>
+            <option value="monochrome-dark">Monochrome-dark</option>
+            <option value="monochrome-light">Monochrome-light</option>
+            <option value="analogic">Analogic</option>
+            <option value="complement">Complement</option>
+            <option value="analogic-complement">Analogic-complement</option>
+            <option value="triad">Triad</option>
+          </select>
+          <button type="submit" id="get-color-scheme" class="btn">
+            Get color scheme
+          </button>
+        </form>
+        <div id="color-scheme-output" class="color-scheme-output"></div>
+      </div>
+    </main>
+    <footer>
+      <span
+        >Made by
+        <a href="https://github.com/hello-rain" target="_blank">Rain</a></span
+      >
+    </footer>
+    <script src="js/script.js" type="module"></script>
+  </body>
+</html>
