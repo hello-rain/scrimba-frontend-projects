@@ -135,7 +135,7 @@ _Combine HTML, CSS, and JavaScript into interactive projects._
 
 ### Kitten Purrs
 
-<p align="center"> <a href="https://link-to-vercel" target="_blank"> <img src="https://link-to-image" alt="Kitten Purrs preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://kitten-purrs.netlify.app/" target="_blank"> <img src="https://link-to-image" alt="Kitten Purrs preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
@@ -157,7 +157,7 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 ### Mean Girls Scorecard
 
-<p align="center"> <a href="https://link-to-vercel" target="_blank"> <img src="https://link-to-image" alt="Mean Girls Scorecard preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://mean-girls-scorecard.netlify.app/" target="_blank"> <img src="https://link-to-image" alt="Mean Girls Scorecard preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
@@ -178,7 +178,7 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 ### Password Generator
 
-<p align="center"> <a href="https://link-to-vercel" target="_blank"> <img src="https://link-to-image" alt="Password Generator preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://password-generator-rain.netlify.app/" target="_blank"> <img src="https://link-to-image" alt="Password Generator preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
@@ -204,7 +204,7 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 ### Unit Converter
 
-<p align="center"> <a href="https://link-to-vercel" target="_blank"> <img src="https://link-to-image" alt="Unit Converter preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://unit-converter-rain.netlify.app/" target="_blank"> <img src="https://link-to-image" alt="Unit Converter preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
@@ -229,7 +229,7 @@ _Level up CSS skills._
 
 ### Mindfree Social
 
-<p align="center"> <a href="https://link-to-vercel" target="_blank"> <img src="https://link-to-image" alt="Mindfree Social preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://mindfree-social.netlify.app/" target="_blank"> <img src="https://link-to-image" alt="Mindfree Social preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
@@ -258,7 +258,7 @@ _Level up JavaScript skills._
 
 ### Jimmy’s Diner
 
-<p align="center"> <a href="https://link-to-vercel" target="_blank"> <img src="https://link-to-image" alt="Jimmy’s Diner preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://jimmys-diner.netlify.app/" target="_blank"> <img src="https://link-to-image" alt="Jimmy’s Diner preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
@@ -283,7 +283,7 @@ _Level up Responsive Design skills._
 
 ### Rain's Learning Journal
 
-<p align="center"> <a href="https://link-to-vercel" target="_blank"> <img src="https://link-to-image" alt="Rain's Learning Journal preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://learning-journal-rain.netlify.app/" target="_blank"> <img src="https://link-to-image" alt="Rain's Learning Journal preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
@@ -306,7 +306,7 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 _Learn to use APIs._
 
-<p align="center"> <a href="https://link-to-vercel" target="_blank"> <img src="https://link-to-image" alt="Color Scheme Generator preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://color-scheme-generator-rain.netlify.app/" target="_blank"> <img src="https://link-to-image" alt="Color Scheme Generator preview" style="width:45%;"/> </a> </p>
 
 ### Color Scheme Generator
 
@@ -332,7 +332,7 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 ### Movie Watchlist
 
-<p align="center"> <a href="https://link-to-vercel" target="_blank"> <img src="https://link-to-image" alt="Movie Watchlist preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://movie-watchlist-rain.netlify.app/" target="_blank"> <img src="https://link-to-image" alt="Movie Watchlist preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
@@ -357,7 +357,7 @@ _Learn the basics of React._
 
 ### Tenzies
 
-<p align="center"> <a href="https://link-to-vercel" target="_blank"> <img src="https://link-to-image" alt="Tenzies preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://tenzies-rain.netlify.app/" target="_blank"> <img src="https://link-to-image" alt="Tenzies preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
@@ -378,7 +378,7 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 ### Assembly Endgame
 
-<p align="center"> <a href="https://link-to-vercel" target="_blank"> <img src="https://link-to-image" alt="Assembly Endgame preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://assembly-endgame-rain.netlify.app/" target="_blank"> <img src="https://link-to-image" alt="Assembly Endgame preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
@@ -398,7 +398,7 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 ### Quizzical
 
-<p align="center"> <a href="https://link-to-vercel" target="_blank"> <img src="https://link-to-image" alt="Quizzical preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://quizzical-rain.netlify.app/" target="_blank"> <img src="https://link-to-image" alt="Quizzical preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
