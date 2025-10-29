@@ -1,0 +1,91 @@
+/**
+Palette: https://scrimba.com/links/hometown-palette
+RED: #E63946
+LIGHT: #F1FAEE
+AQUA: #A8DADC
+LIGHT BLUE: #457B9D
+DARK BLUE: #1D3557
+
+*/
+
+html {
+  font-size: 1rem;
+  box-sizing: border-box; /* Simplifies padding/margin calculations */
+}
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  text-align: center;
+  line-height: 1.6;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #1d3557;
+}
+
+.activity__image {
+  width: 100px;
+  height: 100px;
+}
+
+.hero {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("images/stars-hollow.jpeg") center/cover no-repeat;
+  height: 400px;
+  color: #fff;
+  padding: 120px;
+}
+.hero__title {
+  font-size: 32px;
+  text-shadow: 3px 3px 2px rgba(0, 0, 0, 0.5);
+}
+
+.hero__subtitle {
+  font-size: 18px;
+  text-shadow: 3px 3px 2px rgba(0, 0, 0, 0.5);
+}
+
+.activities {
+  padding: 40px;
+  background: #ffedda;
+}
+.activities__wrapper {
+  display: flex;
+  padding: 40px;
+  gap: 2rem;
+}
+
+.activities img {
+  border-radius: 50%;
+}
+
+.guide {
+  padding: 50px 160px;
+}
+
+.even-columns {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.guide__wrapper {
+  display: flex;
+  gap: 1rem;
+  margin: auto;
+  border-radius: 10px;
+  width: 500px;
+  height: 350px;
+  box-shadow: 0 6px 0 0 #1d3557;
+  background: #f6d5b5;
+  padding: 25px 15px;
+}
+
+.guide__wrapper img {
+  width: 250px;
+  height: 300px;
+}
