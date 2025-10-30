@@ -332,12 +332,12 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 ### Movie Watchlist
 
-<p align="center"> <a href="https://movie-watchlist.netlify.app/" target="_blank"> <img src="https://link-to-image" alt="Movie Watchlist preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://simple-movie-watchlist.netlify.app/" target="_blank"> <img src="https://github.com/user-attachments/assets/3ab706aa-9766-4100-abe7-6d21f30ed874" alt="Movie Watchlist preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
 - <a href="https://github.com/hello-rain/scrimba-frontend-projects/tree/main/working-with-apis/movie-watchlist" target="_blank" rel="noopener noreferrer">Code</a>
-- <a href="https://movie-watchlist.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
+- <a href="https://simple-movie-watchlist.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
 - [Back to Table of Contents](#table-of-contents)
 
 **Requirements:**
