@@ -16,7 +16,7 @@ A collection of my projects from **Scrimba’s Frontend Developer Career Path**,
 
 - [Module 3 – Making Websites Interactive](#module-3--making-websites-interactive)
 
-  - [Kitten Purrs](#kitten-purrs)
+  - [Kitten Purrs Counter](#kitten-purrs-counter)
   - [Mean Girls Scorecard](#mean-girls-scorecard)
   - [Password Generator](#password-generator)
   - [Unit Converter](#unit-converter)
@@ -133,14 +133,14 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 _Combine HTML, CSS, and JavaScript into interactive projects._
 
-### Kitten Purrs
+### Kitten Purrs Counter
 
-<p align="center"> <a href="https://kitten-purrs.netlify.app/" target="_blank"> <img src="images/kitten-purrs-counter.png" alt="Kitten Purrs preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://kitten-purrs-counter.netlify.app/" target="_blank"> <img src="images/kitten-purrs-counter.png" alt="Kitten Purrs Counter preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
-- <a href="https://github.com/hello-rain/scrimba-frontend-projects/tree/main/making-websites-interactive/kitten-purrs" target="_blank" rel="noopener noreferrer">Code</a>
-- <a href="https://kitten-purrs.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
+- <a href="https://github.com/hello-rain/scrimba-frontend-projects/tree/main/making-websites-interactive/kitten-purrs-counter" target="_blank" rel="noopener noreferrer">Code</a>
+- <a href="https://kitten-purrs-counter.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
 - [Back to Table of Contents](#table-of-contents)
 
 **Requirements:**
