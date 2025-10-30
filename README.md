@@ -52,7 +52,7 @@ _Learn the basics of HTML and CSS._
 
 ### Per Birthday Gift
 
-<p align="center"> <a href="https://per-birthday-gift.netlify.app/" target="_blank"> <img src="https://github.com/user-attachments/assets/b7a09338-a084-4e73-bd94-93a6b19309a9" alt="Per Birthday Gift preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://per-birthday-gift.netlify.app/" target="_blank"> <img src="images/per-birthday-gift.png" alt="Per Birthday Gift preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
@@ -78,7 +78,7 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 ### Rain Business Card
 
-<p align="center"> <a href="https://rain-business-card.netlify.app/" target="_blank"> <img src="https://github.com/user-attachments/assets/cc7c6b0d-c6e3-4136-a088-7ae96568aace" alt="Rain Business Card preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://rain-business-card.netlify.app/" target="_blank"> <img src="images/rain-business-card.png" alt="Rain Business Card preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
@@ -105,7 +105,7 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 ### Stars Hollow
 
-<p align="center"> <a href="https://stars-hollow.netlify.app/" target="_blank"> <img src="https://github.com/user-attachments/assets/acd79a75-bbc6-4095-abf5-a7a70a60ef8c" alt="Stars Hollow preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://stars-hollow.netlify.app/" target="_blank"> <img src="images/stars-hollow.png" alt="Stars Hollow preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
@@ -135,7 +135,7 @@ _Combine HTML, CSS, and JavaScript into interactive projects._
 
 ### Kitten Purrs
 
-<p align="center"> <a href="https://kitten-purrs.netlify.app/" target="_blank"> <img src="https://github.com/user-attachments/assets/3b880aea-a16b-4304-a458-00768e1cdf3a" alt="Kitten Purrs preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://kitten-purrs.netlify.app/" target="_blank"> <img src="images/kitten-purrs-counter.png" alt="Kitten Purrs preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
@@ -157,7 +157,7 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 ### Mean Girls Scorecard
 
-<p align="center"> <a href="https://mean-girls-scorecard.netlify.app/" target="_blank"> <img src="https://github.com/user-attachments/assets/6145737a-206d-4bdd-be82-152288e678a3" alt="Mean Girls Scorecard preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://mean-girls-scorecard.netlify.app/" target="_blank"> <img src="images/mean-girls-scorecard.png" alt="Mean Girls Scorecard preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
@@ -178,7 +178,7 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 ### Password Generator
 
-<p align="center"> <a href="https://minimalist-password-generator.netlify.app/" target="_blank"> <img src="https://github.com/user-attachments/assets/ed673676-573e-40a6-a4d1-85c8f9fe02d0" alt="Password Generator preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://minimalist-password-generator.netlify.app/" target="_blank"> <img src="images/password-generator.png" alt="Password Generator preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
@@ -204,7 +204,7 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 ### Unit Converter
 
-<p align="center"> <a href="https://easy-unit-converter.netlify.app/" target="_blank"> <img src="https://github.com/user-attachments/assets/5b1ed246-8353-4223-a42c-7cad5b809917" alt="Unit Converter preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://easy-unit-converter.netlify.app/" target="_blank"> <img src="images/unit-converter.png" alt="Unit Converter preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
@@ -229,7 +229,7 @@ _Level up CSS skills._
 
 ### Mindfree Social
 
-<p align="center"> <a href="https://mindfree-social.netlify.app/" target="_blank"> <img src="https://github.com/user-attachments/assets/8fc3c49b-ad42-4206-9534-69d37a3c8f8a" alt="Mindfree Social preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://mindfree-social.netlify.app/" target="_blank"> <img src="images/mindfree-social.png" alt="Mindfree Social preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
@@ -258,7 +258,7 @@ _Level up JavaScript skills._
 
 ### Jimmy’s Diner
 
-<p align="center"> <a href="https://jimmys-diner-menu.netlify.app/" target="_blank"> <img src="https://github.com/user-attachments/assets/72176af7-14c3-46ad-a3af-9672846ce0af" alt="Jimmy’s Diner preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://jimmys-diner-menu.netlify.app/" target="_blank"> <img src="images/jimmys-diner.png" alt="Jimmy’s Diner preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
@@ -283,7 +283,7 @@ _Level up Responsive Design skills._
 
 ### Rain's Learning Journal
 
-<p align="center"> <a href="https://rain-learning-journal.netlify.app/" target="_blank"> <img src="https://github.com/user-attachments/assets/92237fd9-0cb2-48b5-8277-dee9cff6f5a1" alt="Rain's Learning Journal preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://rain-learning-journal.netlify.app/" target="_blank"> <img src="images/rain-learning-journal.png" alt="Rain's Learning Journal preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
@@ -306,7 +306,7 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 _Learn to use APIs._
 
-<p align="center"> <a href="https://mini-color-scheme-generator.netlify.app/" target="_blank"> <img src="https://github.com/user-attachments/assets/e0b810de-8a60-4b02-b556-0f8c0109b36f" alt="Color Scheme Generator preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://mini-color-scheme-generator.netlify.app/" target="_blank"> <img src="images/color-scheme-generator.png" alt="Color Scheme Generator preview" style="width:45%;"/> </a> </p>
 
 ### Color Scheme Generator
 
@@ -332,7 +332,7 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 ### Movie Watchlist
 
-<p align="center"> <a href="https://simple-movie-watchlist.netlify.app/" target="_blank"> <img src="https://github.com/user-attachments/assets/3ab706aa-9766-4100-abe7-6d21f30ed874" alt="Movie Watchlist preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://simple-movie-watchlist.netlify.app/" target="_blank"> <img src="images/movie-watchlist.png" alt="Movie Watchlist preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
@@ -357,7 +357,7 @@ _Learn the basics of React._
 
 ### Tenzies
 
-<p align="center"> <a href="https://tenzies.netlify.app/" target="_blank"> <img src="https://link-to-image" alt="Tenzies preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://tenzies.netlify.app/" target="_blank"> <img src="images/tenzies.png" alt="Tenzies preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
@@ -378,7 +378,7 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 ### Assembly Endgame
 
-<p align="center"> <a href="https://assembly-endgame.netlify.app/" target="_blank"> <img src="https://link-to-image" alt="Assembly Endgame preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://assembly-endgame.netlify.app/" target="_blank"> <img src="images/assembly-endgame.png" alt="Assembly Endgame preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
@@ -398,7 +398,7 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 ### Quizzical
 
-<p align="center"> <a href="https://quizzical.netlify.app/" target="_blank"> <img src="https://link-to-image" alt="Quizzical preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://quizzical.netlify.app/" target="_blank"> <img src="images/quizzical.png" alt="Quizzical preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
