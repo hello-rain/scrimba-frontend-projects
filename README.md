@@ -378,12 +378,12 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 ### Assembly Endgame
 
-<p align="center"> <a href="https://assembly-endgame.netlify.app/" target="_blank"> <img src="images/assembly-endgame.png" alt="Assembly Endgame preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://coding-assembly-endgame.netlify.app/" target="_blank"> <img src="images/assembly-endgame.png" alt="Assembly Endgame preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
 - <a href="https://github.com/hello-rain/scrimba-frontend-projects/tree/main/react-basics/assembly-endgame" target="_blank" rel="noopener noreferrer">Code</a>
-- <a href="https://assembly-endgame.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
+- <a href="https://coding-assembly-endgame.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
 - [Back to Table of Contents](#table-of-contents)
 
 **Requirements:**
