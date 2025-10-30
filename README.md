@@ -357,12 +357,12 @@ _Learn the basics of React._
 
 ### Tenzies
 
-<p align="center"> <a href="https://tenzies.netlify.app/" target="_blank"> <img src="images/tenzies.png" alt="Tenzies preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://mini-tenzies-game.netlify.app/" target="_blank"> <img src="images/tenzies.png" alt="Tenzies preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
 - <a href="https://github.com/hello-rain/scrimba-frontend-projects/tree/main/react-basics/tenzies" target="_blank" rel="noopener noreferrer">Code</a>
-- <a href="https://tenzies.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
+- <a href="https://mini-tenzies-game.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
 - [Back to Table of Contents](#table-of-contents)
 
 **Requirements:**
