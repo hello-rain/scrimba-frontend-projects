@@ -31,6 +31,7 @@ A collection of my projects from **Scrimba’s Frontend Developer Career Path**,
 
 - [Module 7 – Responsive Design](#module-7--responsive-design)
 
+  - [NFT Site](#nft-site)
   - [Learning Journal](#rain-learning-journal)
 
 - [Module 9 – Working with APIs](#module-9--working-with-apis)
