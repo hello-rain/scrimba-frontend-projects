@@ -281,6 +281,31 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 _Level up Responsive Design skills._
 
+### NFT Site
+
+<p align="center"> 
+  <a href="https://real-nft-site.netlify.app/" target="_blank"> 
+    <img src="images/nft-site.png" alt="Rain's NFT Site preview" style="width:45%;"/> 
+  </a> 
+</p>
+
+**Links:**
+
+- <a href="https://github.com/hello-rain/scrimba-frontend-projects/tree/main/responsive-design/nft-site" target="_blank" rel="noopener noreferrer">Code</a>
+- <a href="https://real-nft-site.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
+- [Back to Table of Contents](#table-of-contents)
+
+**Requirements:**
+
+- Build a responsive NFT preview card component
+- Use semantic HTML and clean CSS structure
+- Follow the design layout provided
+
+**Author:**  
+Scrimba – [@hello-rain](https://github.com/hello-rain)
+
+---
+
 ### Rain's Learning Journal
 
 <p align="center"> <a href="https://rain-learning-journal.netlify.app/" target="_blank"> <img src="images/rain-learning-journal.png" alt="Rain's Learning Journal preview" style="width:45%;"/> </a> </p>
