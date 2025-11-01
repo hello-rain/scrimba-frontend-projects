@@ -398,12 +398,12 @@ Scrimba – [@hello-rain](https://github.com/hello-rain)
 
 ### Quizzical
 
-<p align="center"> <a href="https://quizzical.netlify.app/" target="_blank"> <img src="images/quizzical.png" alt="Quizzical preview" style="width:45%;"/> </a> </p>
+<p align="center"> <a href="https://fun-quizzical.netlify.app/" target="_blank"> <img src="images/quizzical.png" alt="Quizzical preview" style="width:45%;"/> </a> </p>
 
 **Links:**
 
 - <a href="https://github.com/hello-rain/scrimba-frontend-projects/tree/main/react-basics/quizzical" target="_blank" rel="noopener noreferrer">Code</a>
-- <a href="https://quizzical.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
+- <a href="https://fun-quizzical.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
 - [Back to Table of Contents](#table-of-contents)
 
 **Requirements:**
